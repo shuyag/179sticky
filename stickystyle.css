@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+.title{
+  color: #000;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  padding-left: 20px;
+}
+
+.title h1{
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.title span{
+  font-weight: 400;
+}
+
+.textbox {
+  margin-top: 50px;
+  position: relative;
+}
+
+.text {
+  color: #000;
+  position: relative;
+  width: 250px;
+  min-height: 250px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Fredoka One', cursive;
+  font-size: 24px;
+  box-shadow: 0 10px 10px 2px rgba(0,0,0,0.4);
+}
+ 
+
+.text .footnote {
+  display: block;
+  margin: 30px 0 0 0;
+  font-weight: 700;
+  text-align: right;
+  text-transform: uppercase;
+  font-style: normal;
+  font-size: 12px;
+  font-family: 'Raleway', sans-serif; 
+}
+
+
+.one{
+  position: relative;
+  left: -400px;
+}
+
+.two{
+  position: relative;
+  top: -200px;
+  left: 300px;
+}
+
+.three{
+  position: relative;
+  left: -50px;
+  top: -450px;
+}
+
+.four{
+  position: relative;
+  top: -500px;
+  left:-450px;
+}
+
+.five{
+  position: relative;
+  left: -140px;
+  top: -600px;
+}
+
+.six{
+  position: relative;
+  left: 450px;
+  top: -1200px;
+}
+
+.seven{
+  position: relative;
+  left: 280px;
+  top: -1300px;
+}
+
+.eight{
+  position: relative;
+  left: -340px;
+  top: -1250px;
+}
+
+.nine{
+  position: relative;
+  left: 390px;
+  top: -1790px;
+}
+
+.ten{
+  position: relative;
+  left: 350px;
+  top: -1730px;
+}
+
+
+
+.blue {
+  background: #35a5d7;
+}
+
+.coral {
+  background: #e04f32;
+}
+
+.pink {
+  background: #df4689;
+}
+
+.teal {
+  background: #4fb8b4;
+}

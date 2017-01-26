@@ -1,0 +1,3 @@
+Hello! This is the README for HW_01 for Shuya Gong. We pay tribute to the Jaipur Collection of Post-it in this project. w3.com was consulted heavily for this project because nobody remembers all the syntax for html and css. 
+
+This project also lives at shuyag.github.io/179sticky
